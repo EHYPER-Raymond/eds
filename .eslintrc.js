@@ -50,5 +50,5 @@ module.exports = {
 
     // Disable this rule for forms
     'xwalk/no-orphan-collapsible-fields': 'off'
-  },
+  }
 };
