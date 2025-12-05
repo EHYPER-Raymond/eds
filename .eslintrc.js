@@ -50,5 +50,5 @@ module.exports = {
       
     }],
     'xwalk/no-orphan-collapsible-fields': 'off' // Disable until enhancement is done for Forms properties
-  },
+  }
 };
