@@ -49,6 +49,6 @@ module.exports = {
       tnc: 12,
       range: 19
     }],
-    'xwalk/no-orphan-collapsible-fields': 'off' // Disable until enhancement is done for Forms properties
+    'xwalk/no-orphan-collapsible-fields': 'off', // Disable until enhancement is done for Forms properties
   },
 };
